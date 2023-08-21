@@ -1,0 +1,5 @@
+authors: [ Recon Development ]
+name: ReconCommons
+main: net.recondev.commons.ReconCommons
+version: 1.0
+loadbefore: [ ReconMinebombs, LoopPlayerStats, LoopFoods, LoopPrisons, LoopBoosters, LoopPerks, LoopVouchers, LoopKillMessages, LoopSides, LoopTreasure, ExodusMinebombs, ReconSides, ReconReclaims, ReconTreasure, ReconPerks, ReconStats,  ReconGenerators, ReconSellWands ]
