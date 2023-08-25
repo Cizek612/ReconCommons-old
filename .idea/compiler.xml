@@ -10,8 +10,5 @@
         <module name="LoopCommons" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="LoopCommons" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
